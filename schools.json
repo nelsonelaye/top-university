@@ -1,0 +1,717 @@
+[{
+  "_id": {
+    "$oid": "622bcc149afc80b11b688242"
+  },
+  "schoolName": "Princeton",
+  "schoolLocation": "New Jersey, US",
+  "schoolImage": "Images\\puni.jpg",
+  "dateCreated": {
+    "$date": "2022-03-11T22:24:08.761Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647037461/pot9n8yznnqesvdc4fuf.jpg",
+  "cloudId": "pot9n8yznnqesvdc4fuf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622bce6e2d38faae0716d9fd"
+  },
+  "schoolName": "Havard University",
+  "schoolLocation": "Cambridge, US",
+  "schoolImage": "Images\\Harvard-logo-design.jpg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647038063/wuh7jfinvvczfjkkwzii.jpg",
+  "cloudId": "wuh7jfinvvczfjkkwzii",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622bcf252d38faae0716d9ff"
+  },
+  "schoolName": "Yale University",
+  "schoolLocation": "New Haven, US",
+  "schoolImage": "Images\\yale.webp",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647038246/kjfafb6zslf5zht96z3m.webp",
+  "cloudId": "kjfafb6zslf5zht96z3m",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622bdb962d38faae0716da01"
+  },
+  "schoolName": "Columbia University",
+  "schoolLocation": "New York, US",
+  "schoolImage": "Images\\columbia.jpg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647041431/vggjkwycqdb5z0jjiaur.jpg",
+  "cloudId": "vggjkwycqdb5z0jjiaur",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622bdc672d38faae0716da03"
+  },
+  "schoolName": "CornellUniversity",
+  "schoolLocation": "Ithaca, US",
+  "schoolImage": "Images\\cornell.jpeg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647041639/zutc0zlguozbdbiqls0x.jpg",
+  "cloudId": "zutc0zlguozbdbiqls0x",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622bdd3b2d38faae0716da05"
+  },
+  "schoolName": "University of Pennsylvania",
+  "schoolLocation": "Philadelphia",
+  "schoolImage": "Images\\University-of-Pennsylvania-Penn-Identity-Conflict-Lab-Postdoctoral-Fellowship-2020-2021.jpg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647041852/mq7f7q5qjpzllhn7dwyy.jpg",
+  "cloudId": "mq7f7q5qjpzllhn7dwyy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622bddb22d38faae0716da07"
+  },
+  "schoolName": "Brown University",
+  "schoolLocation": "Providence, RI 02912, United States",
+  "schoolImage": "Images\\Brown-University-USA.jpg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647041970/c3iw0cxsnm9purevq9xi.jpg",
+  "cloudId": "c3iw0cxsnm9purevq9xi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622bde4d2d38faae0716da09"
+  },
+  "schoolName": "Massachusetts Institute of Technology",
+  "schoolLocation": "Cambridge",
+  "schoolImage": "Images\\Massachusetts-Institute-of-Technology-MIT-Admission-Scholarships-1.jpg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647042126/utn78nsddp6tagooo6p9.jpg",
+  "cloudId": "utn78nsddp6tagooo6p9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622bdf842d38faae0716da0b"
+  },
+  "schoolName": "Dartmouth College",
+  "schoolLocation": "Hanover",
+  "schoolImage": "Images\\Dartmouth.jpeg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647042437/kadd3zgxx5cci7hsxd1m.jpg",
+  "cloudId": "kadd3zgxx5cci7hsxd1m",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622be2582d38faae0716da11"
+  },
+  "schoolName": "Northwestern University",
+  "schoolLocation": "Evanston",
+  "schoolImage": "Images\\Study-in-Northwestern-University.jpg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647043161/uilmmjatlxgx6uwjgr9p.jpg",
+  "cloudId": "uilmmjatlxgx6uwjgr9p",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c50da2d38faae0716da13"
+  },
+  "schoolName": " University of Lagos.",
+  "schoolLocation": "Lagos",
+  "schoolImage": "Images\\UNILAG-8-1062x598.jpg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647071450/i8yoed1x36tptddkxfc6.jpg",
+  "cloudId": "i8yoed1x36tptddkxfc6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c51612d38faae0716da15"
+  },
+  "schoolName": "Lagos State University",
+  "schoolLocation": "Lasu Main Rd, Ojo 102101, Lagos",
+  "schoolImage": "Images\\Lagos-State-University-LASU.jpg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647071586/jae7bsj2cehrmgs9ihzf.jpg",
+  "cloudId": "jae7bsj2cehrmgs9ihzf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c52272d38faae0716da17"
+  },
+  "schoolName": "Caleb University",
+  "schoolLocation": "Ikorodu, Ibadan-Ijebu Ode Rd, Imota",
+  "schoolImage": "Images\\caleb-university.jpg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647071784/h3qy68sdytksq3r1wowm.jpg",
+  "cloudId": "h3qy68sdytksq3r1wowm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c52792d38faae0716da19"
+  },
+  "schoolName": "Anchor University",
+  "schoolLocation": "Ayobo Street, Ayobo Rd, Ipaja, Lagos",
+  "schoolImage": "Images\\Anchor-University-Lagos.jpg",
+  "dateCreated": {
+    "$date": "1970-01-01T00:00:00.011Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647071866/p4ncmuyofnb3rqueean2.jpg",
+  "cloudId": "p4ncmuyofnb3rqueean2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c540bb804b6bc333cc014"
+  },
+  "schoolName": "Cetep City University",
+  "schoolLocation": "Yaba",
+  "schoolImage": "Images\\cetep-city.jpg",
+  "dateCreated": {
+    "$date": "2004-12-31T23:00:00Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647072268/ptdy6f8ag8eqxtp8tuuy.jpg",
+  "cloudId": "ptdy6f8ag8eqxtp8tuuy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c54d71adc7ff4657365d6"
+  },
+  "schoolName": "Oduduwa University",
+  "schoolLocation": "213 Idimu Rd, Idimu 102213, Lagos",
+  "schoolImage": "Images\\Oduduwa-University-OUI.jpg",
+  "dateCreated": {
+    "$date": "2008-12-31T23:00:00Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647072472/tycdlkvjqxjxvd4ou0fr.jpg",
+  "cloudId": "tycdlkvjqxjxvd4ou0fr",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c562d1adc7ff4657365d8"
+  },
+  "schoolName": "Georgia Institute of Technology",
+  "schoolLocation": "North Ave NW, Atlanta, GA 30332, United States",
+  "schoolImage": "Images\\GIT.png",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-2587680000000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647072813/nmdnbdggf395ad6zzbwn.png",
+  "cloudId": "nmdnbdggf395ad6zzbwn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c56ca1adc7ff4657365da"
+  },
+  "schoolName": "Vanderbilt University ",
+  "schoolLocation": "Nashville",
+  "schoolImage": "Images\\VU.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-3060979200000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647072971/nnnkyvxkcseow57viviv.jpg",
+  "cloudId": "nnnkyvxkcseow57viviv",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c572e1adc7ff4657365dc"
+  },
+  "schoolName": "Purdue University ",
+  "schoolLocation": "West Lafayette, Indiana",
+  "schoolImage": "Images\\Purdue.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-3187209600000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647073071/mgcjfzfecjtwqbpth5xn.jpg",
+  "cloudId": "mgcjfzfecjtwqbpth5xn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c57b71adc7ff4657365de"
+  },
+  "schoolName": "Duke University",
+  "schoolLocation": "Durham, NC",
+  "schoolImage": "Images\\DUke.png",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-4260211200000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647073207/xhzvdlzzo6zeuylmsgkt.png",
+  "cloudId": "xhzvdlzzo6zeuylmsgkt",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c58471adc7ff4657365e0"
+  },
+  "schoolName": "University of Georgia",
+  "schoolLocation": "Athens, GA",
+  "schoolImage": "Images\\UG.png",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-5837961600000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647073352/zttxqgddinjralkikcme.png",
+  "cloudId": "zttxqgddinjralkikcme",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c58921adc7ff4657365e2"
+  },
+  "schoolName": "Georgia State University",
+  "schoolLocation": "Athens, GA",
+  "schoolImage": "Images\\Georgia-State-University-Atlanta.webp",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-1798761600000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647073427/xypurdvbf0kvjholt0ec.webp",
+  "cloudId": "xypurdvbf0kvjholt0ec",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c5be81adc7ff4657365e4"
+  },
+  "schoolName": "Emory University",
+  "schoolLocation": "Athens, GA",
+  "schoolImage": "Images\\_0001_0010507-12ai-f022-maps.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-4228675200000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647074280/a4vxijrnv3ua89i88nqj.jpg",
+  "cloudId": "a4vxijrnv3ua89i88nqj",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c5dea1adc7ff4657365e6"
+  },
+  "schoolName": "Auburn University",
+  "schoolLocation": "Auburn, A",
+  "schoolImage": "Images\\auburn-university.jpg",
+  "dateCreated": {
+    "$date": "1986-01-01T00:00:00Z"
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647074795/l9qksxvcz3eb1w2nttbl.jpg",
+  "cloudId": "l9qksxvcz3eb1w2nttbl",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c5e6b1adc7ff4657365e8"
+  },
+  "schoolName": "The University of Alabama",
+  "schoolLocation": "Tuscaloosa, AL",
+  "schoolImage": "Images\\University-of-Alabama.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-4733596800000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647074924/seprlm8vuwbv3sfrstmo.jpg",
+  "cloudId": "seprlm8vuwbv3sfrstmo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c5eea1adc7ff4657365ea"
+  },
+  "schoolName": "Stanford University",
+  "schoolLocation": "Stanford, CA",
+  "schoolImage": "Images\\stanford.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-2682288000000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647075050/s36jrnlgwihfzo7bczra.jpg",
+  "cloudId": "s36jrnlgwihfzo7bczra",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c5f551adc7ff4657365ec"
+  },
+  "schoolName": "University of Tennessee",
+  "schoolLocation": "Knoxville, TN",
+  "schoolImage": "Images\\the-university-of-tennessee-knoxville.webp",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-5553964800000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647075158/edbqasdtwnffjmwdrczd.webp",
+  "cloudId": "edbqasdtwnffjmwdrczd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c60011adc7ff4657365ee"
+  },
+  "schoolName": "Virginia Tech",
+  "schoolLocation": "Blacksburg, VA",
+  "schoolImage": "Images\\virginia tech.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-3092601600000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647075330/pyvcswl30p7uco7ne3hv.jpg",
+  "cloudId": "pyvcswl30p7uco7ne3hv",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c60b21adc7ff4657365f0"
+  },
+  "schoolName": "University of Florida",
+  "schoolLocation": "Gainesville, FL ",
+  "schoolImage": "Images\\University of florida.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-4260211200000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647075506/mvsfhqrybzsmtrz6ufxx.jpg",
+  "cloudId": "mvsfhqrybzsmtrz6ufxx",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c62541adc7ff4657365f2"
+  },
+  "schoolName": "University of Michigan",
+  "schoolLocation": "Ann Arbor, Michigan",
+  "schoolImage": "Images\\michigan.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-4828204800000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647075924/iiuvkxkpkdqg1ahapx8h.jpg",
+  "cloudId": "iiuvkxkpkdqg1ahapx8h",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c63e21adc7ff4657365f4"
+  },
+  "schoolName": "Rice University",
+  "schoolLocation": "Houston, TX",
+  "schoolImage": "Images\\Rice U.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-1830384000000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647076323/g8cmqyoshjxov62zmkkg.jpg",
+  "cloudId": "g8cmqyoshjxov62zmkkg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c64331adc7ff4657365f6"
+  },
+  "schoolName": "University of California, Berkeley",
+  "schoolLocation": "Berkeley, CA",
+  "schoolImage": "Images\\berkley.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-3218832000000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647076403/crocr5xgoh39dy3cy9wg.jpg",
+  "cloudId": "crocr5xgoh39dy3cy9wg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c64d31adc7ff4657365f8"
+  },
+  "schoolName": "New York University",
+  "schoolLocation": "New York, NY",
+  "schoolImage": "Images\\NY.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-4386441600000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647076564/dbj6jvzblk7xlgdkzlpd.jpg",
+  "cloudId": "dbj6jvzblk7xlgdkzlpd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c65621adc7ff4657365fa"
+  },
+  "schoolName": "California Institute of Technology",
+  "schoolLocation": "Pasadena, CA",
+  "schoolImage": "Images\\california IT.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-2492985600000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647076707/p2atiucfsadxhnq9xyzc.jpg",
+  "cloudId": "p2atiucfsadxhnq9xyzc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c662a1adc7ff4657365fc"
+  },
+  "schoolName": "The University of Chicago",
+  "schoolLocation": "Chicago, IL",
+  "schoolImage": "Images\\University-of-Chicago-iStock.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-2524521600000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647076907/z7gbsuycuuuhsp5qsxow.jpg",
+  "cloudId": "z7gbsuycuuuhsp5qsxow",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c67291adc7ff4657365fe"
+  },
+  "schoolName": "The University of Texas at Austin",
+  "schoolLocation": "Austin, TX",
+  "schoolImage": "Images\\UT.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-1293840000000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647077158/lfbzsc0a8ectmuquw9xq.jpg",
+  "cloudId": "lfbzsc0a8ectmuquw9xq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c67c01adc7ff465736600"
+  },
+  "schoolName": "University of California San Diego",
+  "schoolLocation": "La Jolla, CA",
+  "schoolImage": "Images\\UC-San-Diego.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-315619200000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647077313/rkualtfnutxalcicj2r7.jpg",
+  "cloudId": "rkualtfnutxalcicj2r7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c6c0b1adc7ff465736602"
+  },
+  "schoolName": "Northeastern University",
+  "schoolLocation": "Boston, MA",
+  "schoolImage": "Images\\northeastern.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-2272060800000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647078412/qva44ulicvm80unad13j.jpg",
+  "cloudId": "qva44ulicvm80unad13j",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c6c9f1adc7ff465736604"
+  },
+  "schoolName": "Johns Hopkins University",
+  "schoolLocation": "Baltimore, MD",
+  "schoolImage": "Images\\JHU.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-2966371200000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647078559/vnntdb3n1s4zsepxq6qu.jpg",
+  "cloudId": "vnntdb3n1s4zsepxq6qu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c6d131adc7ff465736606"
+  },
+  "schoolName": "University of Wisconsin-Madison",
+  "schoolLocation": "Madison, WI",
+  "schoolImage": "Images\\university-wisconsin-madison.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-3849984000000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647078675/gyiillbyrdjghg7kpbhi.jpg",
+  "cloudId": "gyiillbyrdjghg7kpbhi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c6d911adc7ff465736608"
+  },
+  "schoolName": "University of North Carolina at Chapel Hill",
+  "schoolLocation": "Chapel Hill, North Carolina",
+  "schoolImage": "Images\\university-of-north-carolina.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-5711731200000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647078802/o50z1izcw2n6fvbrlu9v.jpg",
+  "cloudId": "o50z1izcw2n6fvbrlu9v",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c6e221adc7ff46573660a"
+  },
+  "schoolName": "American University",
+  "schoolLocation": "Washington, DC",
+  "schoolImage": "Images\\American University.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-2429827200000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647078947/utidebavygiu3inp5mb8.jpg",
+  "cloudId": "utidebavygiu3inp5mb8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c6efa1adc7ff46573660c"
+  },
+  "schoolName": "The University of Arizona",
+  "schoolLocation": "Tucson, AZ",
+  "schoolImage": "Images\\Arizona.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-2682288000000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647079163/wplgubits4gldhas1fvf.jpg",
+  "cloudId": "wplgubits4gldhas1fvf",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c700c1adc7ff46573660e"
+  },
+  "schoolName": "Boston University",
+  "schoolLocation": "Boston, MA",
+  "schoolImage": "Images\\Boston-University.png",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-4133980800000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647079437/r3k7qzvy6jea1tkuktje.png",
+  "cloudId": "r3k7qzvy6jea1tkuktje",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c707e1adc7ff465736610"
+  },
+  "schoolName": "Carnegie Mellon University",
+  "schoolLocation": "Pittsburgh, PA",
+  "schoolImage": "Images\\Boston-University.png",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-2208988800000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647079551/lawlcpdfjomoz9bwa7cm.png",
+  "cloudId": "lawlcpdfjomoz9bwa7cm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c70b81adc7ff465736612"
+  },
+  "schoolName": "George Mason University",
+  "schoolLocation": "Fairfax, VA",
+  "schoolImage": "Images\\George mason.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-662688000000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647079609/c3icnwebwhdmzj3jioor.jpg",
+  "cloudId": "c3icnwebwhdmzj3jioor",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c71421adc7ff465736614"
+  },
+  "schoolName": "University of Maryland",
+  "schoolLocation": "College Park, MD",
+  "schoolImage": "Images\\univ-of-maryland.webp",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-3597523200000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647079747/fgebwcwnlot9gt7vvh1y.webp",
+  "cloudId": "fgebwcwnlot9gt7vvh1y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c71dd1adc7ff465736616"
+  },
+  "schoolName": "Illinois Institute of Technology",
+  "schoolLocation": "Chicago, IL",
+  "schoolImage": "Images\\illinois-institute-of-technology-02.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-2524521600000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647079902/onfrkzgm4uqmzcthkupv.jpg",
+  "cloudId": "onfrkzgm4uqmzcthkupv",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c727a1adc7ff465736618"
+  },
+  "schoolName": "University of Waterloo",
+  "schoolLocation": " 200 University Ave W, Waterloo, ON N2L 3G1, Canada",
+  "schoolImage": "Images\\university-of-waterloo-sign-2.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-441849600000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647080059/rdk437gutjzhvqnhsrlo.jpg",
+  "cloudId": "rdk437gutjzhvqnhsrlo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c732b1adc7ff46573661a"
+  },
+  "schoolName": "University of Ottawa",
+  "schoolLocation": "75 Laurier Ave. E, Ottawa, ON K1N 6N5, Canada",
+  "schoolImage": "Images\\University of ottawa.jpg",
+  "dateCreated": {
+    "$date": {
+      "$numberLong": "-3849984000000"
+    }
+  },
+  "cloudUrl": "https://res.cloudinary.com/dzc9ivqeh/image/upload/v1647080236/qukujxjzms2agnkwdvkf.jpg",
+  "cloudId": "qukujxjzms2agnkwdvkf",
+  "__v": 0
+}]
